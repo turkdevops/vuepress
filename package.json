@@ -43,7 +43,7 @@
     "@vue/babel-preset-app": "3.0.0-beta.11",
     "autoprefixer": "^8.2.0",
     "babel-loader": "8.0.0-beta.3",
-    "cache-loader": "^1.2.2",
+    "cache-loader": "^1.2.5",
     "chalk": "^2.3.2",
     "chokidar": "^2.0.3",
     "commander": "^2.15.1",
