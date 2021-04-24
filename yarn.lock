@@ -3194,9 +3194,10 @@ eslint-plugin-jest@^21.15.1:
   version "21.18.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-21.18.0.tgz#d7305969a9c1902f895468791d968fcf08b5c0b7"
 
-eslint-plugin-vue-libs@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-vue-libs/-/eslint-plugin-vue-libs-3.0.0.tgz#9b81ae18c654eb2370b9c17d44b58ab759eadf2b"
+eslint-plugin-vue-libs@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-vue-libs/-/eslint-plugin-vue-libs-3.0.2.tgz#9a3dfd8fb989e6c77fd4c1dbd46f0dfe13ed0d55"
+  integrity sha512-vAA9CkKQ9zkr3A1Wnt1XQccsc7P6ycgMo+tVImFeLdqLkqAnP8JXGQ/hUog3LwaeJCX7zPigFPhyJrFgbWKgTA==
   dependencies:
     babel-eslint "^8.2.3"
     eslint-plugin-vue "^4.5.0"
