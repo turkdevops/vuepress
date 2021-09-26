@@ -79,7 +79,7 @@
     "prismjs": "^1.13.0",
     "register-service-worker": "^1.5.1",
     "semver": "^5.5.0",
-    "stylus": "^0.54.5",
+    "stylus": "^0.55.0",
     "stylus-loader": "^3.0.2",
     "toml": "^2.3.3",
     "url-loader": "^1.0.1",
